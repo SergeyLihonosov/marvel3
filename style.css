@@ -1,0 +1,83 @@
+
+p{
+    font-family: Comic Sans MS ;
+    font-size: 100px;
+    text-align: center;
+}
+.spisok{
+    font-size: 43px;
+    color: darkorchid;
+}
+ol{
+    font-family: Impact;
+    color: yellowgreen;
+}
+.a{
+   font-size: 30px; 
+   position: relative;
+   bottom: 180px;
+   font-family: arial black;
+   right: 100px;
+}
+.c{
+   font-size: 30px; 
+   position: relative;
+   bottom: 40px;
+   font-family: arial black;
+   right: 20px;
+}
+body{
+    background-color: maroon;
+}
+
+.za{
+    position: relative;
+    left: 350px;
+    bottom: 600px;
+}
+
+.b{
+    position: relative;
+    bottom: 1000px;
+    left: 400px;
+}
+iframe{
+    width: 1110px;
+    height: 1000px;
+}
+.d{
+    font-size: 50px;
+    position: relative;
+    right: 200px;
+    color: yellow;
+}
+.k{
+    font-size: 30px;
+    border-radius: 10px;
+}
+.k:hover{
+    color: maroon;
+}
+.r{
+    position: relative;
+    font-size: 30px;
+    font-family: arial black;
+    bottom: 250px;
+    left: 150px;
+}
+.rar{
+    font-size: 40px;
+    position: relative;
+    bottom: 100px;
+    font-family: fantasy;
+    color: lightseagreen;
+}
+.da{
+    font-size: 40px;
+    position: relative;
+    bottom: 100px;
+}
+.sergey{
+    position: relative;
+    top: 100px;
+}
